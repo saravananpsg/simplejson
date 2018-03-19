@@ -1,5 +1,4 @@
-{
-   "person": [
+[
        {
            "firstName": "Clark",
            "lastName": "Kent",
@@ -18,5 +17,4 @@
            "job": "Photographer",
            "roll": 40
        }
-   ]
-}
+]
